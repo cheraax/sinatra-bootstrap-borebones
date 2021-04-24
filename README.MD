@@ -31,6 +31,7 @@ main.rb
 
 ## Установка
 ```git clone git@github.com:cheraax/sinatra-bootstrap-borebones.git```
+
 Или просто скачайте архив
 
 ## Использование
