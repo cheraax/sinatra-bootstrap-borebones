@@ -31,8 +31,11 @@ main.rb
 
 ## Установка
 ```gem install bundler```
+
 ```git clone git@github.com:cheraax/sinatra-bootstrap-borebones.git```
+
 ```cd sinatra-bootstrap-borebones```
+
 ```bundle install```
 
 Или просто скачайте архив
